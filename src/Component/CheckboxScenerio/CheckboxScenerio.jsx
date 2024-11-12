@@ -54,7 +54,7 @@ const CheckboxScenerio = () => {
       <div
         style={{
           display: "flex",
-          gap: "1rem",
+          gap: "2rem",
         }}
       >
         {selectedCheckBox?.map((item, index) => (
